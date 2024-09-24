@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Prasanth3699&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=prasanth_ranger)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=prasanth_ranger)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prasanth3699&icon=6&color=3)](https://visitcount.itsvg.in)
